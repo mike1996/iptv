@@ -147,7 +147,7 @@ https://epg.pm/stream/e555fba5a7a3c069dee6d39fc23898d18a2e8d49b4ae9855b3830f3c72
 https://epg.pm/stream/2cecb108cf6626bcfb212bc4347bf9ddc79c0117632e736cf952740b9ef44cf8.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="综合",江苏卫视
 https://epg.pm/stream/afc90d29beddc0b66e35d9a25cff8a147ddf2dc2d2c5692f0a346661c9edefab.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="浙江卫视" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="综合",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="综合",浙江卫视
 https://epg.pm/stream/7beaab860294c8f5cd28c8854c7048a95f5ce47eb0c2b622bacf679c43514493.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="新闻",凤凰资讯
 https://epg.pm/stream/687a8b8931759cac4ca8b9dd86e337b17113375704d9a073ca2f7cd662df667d.m3u8
@@ -169,11 +169,11 @@ https://epg.pm/stream/95f14257ba5fcb295ee3222804516b8b63b310ef1192333a20a049970e
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://epg.pm/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",CNN
 https://epg.pm/stream/6d810e5ac0c7eadd6c08b7e9b7cf8a68c76d10aa6365f4d8c0b4ac09f26b6fd2.m3u8
-#EXTINF:-1 tvg-id="4519" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pm/media/images/channel/2019/01/15/large/20190115233336666932_65.jpg" group-title="新聞",中天新聞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pm/media/images/channel/2019/01/15/large/20190115233336666932_65.jpg" group-title="新闻",中天新闻
 https://epg.pm/stream/5a87083bc257de8a1c9bc3474000ff38a5bdc90ea41e8d384168ba610a230390.php
-#EXTINF:-1 tvg-id="4519" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pm/media/images/channel/2019/01/15/large/20190115233336666932_65.jpg" group-title="新聞",中天新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pm/media/images/channel/2019/01/15/large/20190115233336666932_65.jpg" group-title="新闻",中天新闻
 https://epg.pm/stream/82e5093e2e6fd0970a6219137412b2ff6da1488960dc6b11a8cf6db0af7b9e8d.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="北京卫视" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="综合",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="综合",北京卫视
 https://epg.pm/stream/d617903c74c3f5034e7e53e4207bd97413cf8007e0ff0a9e1702fd4eb782f731.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="日本" tvg-language="日語" tvg-logo="https://epg.pm/media/images/channel/2022/05/13/large/20220513225311089225_30.jpg" group-title="綜合",NHK World
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://epg.pm/media/images/channel/2022/05/13/large/20220513225311089225_30.jpg" group-title="综合",NHK World
 https://epg.pm/stream/c3c52abd06aaebfa0f9ba19048a3d696cb2d45ce7df984a68a1543f9bc853978.m3u8
