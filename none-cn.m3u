@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="https://epg.pm/media/img/logo/Bloomberg.PNG" group-title="News",Bloomberg TV
-https://epg.pm/stream/64e530025934f284889732b18dbf76841735e6d66db9c06e622a5d8bb5d0dd74.m3u8
+https://epg.pm/stream/d42ada1376d570e837357189e590409fb4d380193640e3d0ab5446569b7a7067.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://epg.pm/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://epg.pm/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",CNN
