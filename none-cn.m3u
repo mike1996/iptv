@@ -5,9 +5,9 @@ https://epg.pm/stream/95f14257ba5fcb295ee3222804516b8b63b310ef1192333a20a049970e
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://epg.pm/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",CNN
 https://epg.pm/stream/6d810e5ac0c7eadd6c08b7e9b7cf8a68c76d10aa6365f4d8c0b4ac09f26b6fd2.m3u8
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://epg.pm/media/images/channel/2022/05/13/large/20220513225311089225_30.jpg" group-title="综合",NHK World
+https://epg.pm/stream/c3c52abd06aaebfa0f9ba19048a3d696cb2d45ce7df984a68a1543f9bc853978.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pm/media/images/channel/2019/01/15/large/20190115233336666932_65.jpg" group-title="新闻",中天新闻
 https://epg.pm/stream/5a87083bc257de8a1c9bc3474000ff38a5bdc90ea41e8d384168ba610a230390.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pm/media/images/channel/2019/01/15/large/20190115233336666932_65.jpg" group-title="新闻",中天新闻
 https://epg.pm/stream/82e5093e2e6fd0970a6219137412b2ff6da1488960dc6b11a8cf6db0af7b9e8d.m3u8
-#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://epg.pm/media/images/channel/2022/05/13/large/20220513225311089225_30.jpg" group-title="综合",NHK World
-https://epg.pm/stream/c3c52abd06aaebfa0f9ba19048a3d696cb2d45ce7df984a68a1543f9bc853978.m3u8
