@@ -131,15 +131,26 @@ https://epg.pm/stream/b4fb36e51027ecd39be7268d51d655ac89412e471fbad5f8536227c968
 https://epg.pm/stream/c104ed56e8312753348bcf061bdc14a7ca34b7ee6d0994f5d2e34f4d9fb6755a.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 https://epg.pm/stream/0b4cca3a1a860225686214b36f942124620fd1eac61778ab2b1ec6158f958976.m3u8
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://epg.pm/media/images/channel/2022/05/10/large/20220510000346281201_79.jpg" group-title="纪实",[BD]世界地理
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://epg.pm/media/images/channel/2022/05/10/large/20220510000346281201_79.jpg" group-title="纪实",世界地理
 https://epg.pm/stream/fe68b0820e1731cb42cd95b81b4b4e28dae7831db4a9e07ae9bd2c086522efc8.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://epg.pm/media/img/logo/2013/10/30/80e4abd132e17b534c2528f1abbb5936.jpg" group-title="综合",[BD]湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://epg.pm/media/img/logo/2013/10/30/80e4abd132e17b534c2528f1abbb5936.jpg" group-title="综合",湖南卫视
 https://epg.pm/stream/76bbd54b6844df02c73b8ec497accc41f618bed10564fa2d2b68807e01814458.m3u8
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://epg.pm/media/images/channel/2019/01/16/large/20190116221721249151_66.jpg" group-title="新闻",[BD]第一财经@@11
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://epg.pm/media/images/channel/2019/01/16/large/20190116221721249151_66.jpg" group-title="新闻",第一财经
 https://epg.pm/stream/68b7bccf8a116907af21a21b7d0e09f47659d722a6e38b8979f648ddc395f4fd.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://epg.pm/media/images/channel/2019/01/16/large/20190116215519642444_57.jpg" group-title="电影",[BD]CHC家庭影院(备)
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://epg.pm/media/images/channel/2019/01/16/large/20190116215519642444_57.jpg" group-title="电影",CHC家庭影院
 https://epg.pm/stream/846ed9f4e390bebbfe419658f4b42ad14bef61264761219e6d7aad545a57cfdb.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://epg.pm/media/images/channel/2022/05/31/large/20220531145024469645_82.jpg" group-title="综合",[BD]云南卫视
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://epg.pm/media/images/channel/2022/05/31/large/20220531145024469645_82.jpg" group-title="综合",云南卫视
 https://epg.pm/stream/db92b7de7b3195e7a3f6efd9c20045db3a8c88e4706474d3d55c7bf5ec50c1b6.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://epg.pm/media/img/logo/2013/10/30/36f8f53257b2666fae32c86c9729c7ff.jpg" group-title="综合",[BD]东方卫视@@15
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://epg.pm/media/img/logo/2013/10/30/36f8f53257b2666fae32c86c9729c7ff.jpg" group-title="综合",东方卫视
 https://epg.pm/stream/e555fba5a7a3c069dee6d39fc23898d18a2e8d49b4ae9855b3830f3c72a6564c.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="综合",江苏卫视
+https://epg.pm/stream/2cecb108cf6626bcfb212bc4347bf9ddc79c0117632e736cf952740b9ef44cf8.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="综合",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="综合",江苏卫视
+https://epg.pm/stream/afc90d29beddc0b66e35d9a25cff8a147ddf2dc2d2c5692f0a346661c9edefab.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="新闻",凤凰资讯
+https://epg.pm/stream/687a8b8931759cac4ca8b9dd86e337b17113375704d9a073ca2f7cd662df667d.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="新闻",凤凰资讯
+https://epg.pm/stream/a957d4e5f157502d341b1ba6542c9aaa9cda482fa34706fee49c245d7464655a.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="新闻",凤凰资讯
+https://epg.pm/stream/45c33d5a3f3ba1914fab634f15e87822bb0718160822df748927a20363a06f60.m3u8
