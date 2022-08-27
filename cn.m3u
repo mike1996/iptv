@@ -163,3 +163,7 @@ https://epg.pm/stream/3afe37f11038323e87aad52774f89caa49d316ab32b2f8aab2143030a6
 https://epg.pm/stream/4444c71a010627deb3a0c6d6b338118c9e85a344453e4e5f63a960c875a19952.m3u8
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="https://epg.pm/media/img/logo/Bloomberg.PNG" group-title="News",Bloomberg TV 4K
 https://epg.pm/stream/95f14257ba5fcb295ee3222804516b8b63b310ef1192333a20a049970e7116fb.m3u8
+#EXTINF:-1 tvg-id="CNN.us" status="online",CNN USA
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="3016" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pm/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="News",[HD]CNN
+https://epg.pm/stream/6d810e5ac0c7eadd6c08b7e9b7cf8a68c76d10aa6365f4d8c0b4ac09f26b6fd2.m3u8
