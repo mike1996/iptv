@@ -146,7 +146,6 @@ https://epg.pm/stream/e555fba5a7a3c069dee6d39fc23898d18a2e8d49b4ae9855b3830f3c72
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="综合",江苏卫视
 https://epg.pm/stream/2cecb108cf6626bcfb212bc4347bf9ddc79c0117632e736cf952740b9ef44cf8.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="综合",江苏卫视
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="综合",江苏卫视
 https://epg.pm/stream/afc90d29beddc0b66e35d9a25cff8a147ddf2dc2d2c5692f0a346661c9edefab.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="新闻",凤凰资讯
 https://epg.pm/stream/687a8b8931759cac4ca8b9dd86e337b17113375704d9a073ca2f7cd662df667d.m3u8
@@ -154,3 +153,15 @@ https://epg.pm/stream/687a8b8931759cac4ca8b9dd86e337b17113375704d9a073ca2f7cd662
 https://epg.pm/stream/a957d4e5f157502d341b1ba6542c9aaa9cda482fa34706fee49c245d7464655a.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="新闻",凤凰资讯
 https://epg.pm/stream/45c33d5a3f3ba1914fab634f15e87822bb0718160822df748927a20363a06f60.m3u8
+#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://epg.pm/media/images/channel/2020/03/22/large/20200322211010158445_97.png" group-title="News",CGTNDocumentary
+https://epg.pm/stream/42cbf7044a5eb9b189a95a3312c5d4bce4b5937d3b3aa3da8876a6c2f623925a.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://epg.pm/media/images/channel/2020/03/22/large/20200322211010158445_97.png" group-title="News",CGTN
+https://epg.pm/stream/35c586c70e069013070205894436f247d511e270458a459634fdb68514b00f3d.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://epg.pm/media/images/channel/2021/07/12/large/20210712042101053436_72.png" group-title="Sport",CCTV16
+https://epg.pm/stream/3afe37f11038323e87aad52774f89caa49d316ab32b2f8aab2143030a6ac309a.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://epg.pm/media/images/channel/2021/07/12/large/20210712042101053436_72.png" group-title="Sport",CCTV16
+https://epg.pm/stream/4444c71a010627deb3a0c6d6b338118c9e85a344453e4e5f63a960c875a19952.m3u8
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="https://epg.pm/media/img/logo/Bloomberg.PNG" group-title="News",Bloomberg TV 4K
+https://epg.pm/stream/c5479aa462b0dddc2999e82999611e4a3d97a69442b2dc2cdd532859fcb0c41b.m3u8
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="https://epg.pm/media/img/logo/Bloomberg.PNG" group-title="News",Bloomberg TV 4K
+https://epg.pm/stream/95f14257ba5fcb295ee3222804516b8b63b310ef1192333a20a049970e7116fb.m3u8
