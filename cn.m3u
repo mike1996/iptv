@@ -137,10 +137,6 @@ https://epg.pm/stream/fe68b0820e1731cb42cd95b81b4b4e28dae7831db4a9e07ae9bd2c0865
 https://epg.pm/stream/76bbd54b6844df02c73b8ec497accc41f618bed10564fa2d2b68807e01814458.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://epg.pm/media/images/channel/2019/01/16/large/20190116221721249151_66.jpg" group-title="新闻",第一财经
 https://epg.pm/stream/68b7bccf8a116907af21a21b7d0e09f47659d722a6e38b8979f648ddc395f4fd.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://epg.pm/media/images/channel/2019/01/16/large/20190116215519642444_57.jpg" group-title="电影",CHC家庭影院
-https://epg.pm/stream/846ed9f4e390bebbfe419658f4b42ad14bef61264761219e6d7aad545a57cfdb.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC动作电影" tvg-logo="" group-title="电影",CHC动作影院
-https://epg.pm/stream/194b02f1babb443fef23d08f04f62b7023c423d2afab63d2064ebb28f95d0392.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://epg.pm/media/images/channel/2022/05/31/large/20220531145024469645_82.jpg" group-title="综合",云南卫视
 https://epg.pm/stream/db92b7de7b3195e7a3f6efd9c20045db3a8c88e4706474d3d55c7bf5ec50c1b6.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://epg.pm/media/img/logo/2013/10/30/36f8f53257b2666fae32c86c9729c7ff.jpg" group-title="综合",东方卫视
@@ -157,3 +153,9 @@ https://epg.pm/stream/848ff31232f7b6e93b5dc520b662c3fe5ad7f5e13e66ea19b3f3fa5ad8
 https://epg.pm/stream/b6da5fb7f53734814d9a12b08abc6e93580228c7ee80c614d9f85c9ef110b2d9.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="综合",北京卫视
 https://epg.pm/stream/d617903c74c3f5034e7e53e4207bd97413cf8007e0ff0a9e1702fd4eb782f731.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="localTVHD",CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="localTVHD",CHC家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="localTVHD",CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
