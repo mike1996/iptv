@@ -16,7 +16,7 @@ https://epg.pm/stream/a957d4e5f157502d341b1ba6542c9aaa9cda482fa34706fee49c245d74
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="港澳台",凤凰资讯
 https://epg.pm/stream/45c33d5a3f3ba1914fab634f15e87822bb0718160822df748927a20363a06f60.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://epg.pm/media/images/channel/2020/03/22/large/20200322211010158445_97.png" group-title="港澳台",CGTNDocumentary
-https://epg.pm/stream/42cbf7044a5eb9b189a95a3312c5d4bce4b5937d3b3aa3da8876a6c2f623925a.m3u8
+http://39.136.48.28:8089/PLTV/88888888/224/3221226401/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://epg.pm/media/images/channel/2020/03/22/large/20200322211010158445_97.png" group-title="央视",CGTN
 https://epg.pm/stream/35c586c70e069013070205894436f247d511e270458a459634fdb68514b00f3d.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
@@ -37,3 +37,7 @@ https://epg.pm/stream/24cba3727367366a55c11bc52e9092c59a064b14f5db57a2bc0f1c492f
 https://epg.pm/stream/6b389c2959dedf4cf2e8ee640853c545da7579d0dbec9015f4bafaf0c8fc40e1.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻
 https://epg.pm/stream/9dbf5d5dd1d158c4dfd5622c86643d4d768447f4f75f505442254c076342e54d.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻台
+https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
+#EXTINF:-1 tvg-id="989" tvg-name="Outdoor" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/outdoor.png" group-title="港澳台",Outdoor Channel
+https://epg.pm/stream/f2786af70a4a012823069dfdcda1deb36595641dca9a0a2ba8611335f5e2fce1.m3u8
