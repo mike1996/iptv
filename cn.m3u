@@ -152,6 +152,8 @@ https://epg.pm/stream/afc90d29beddc0b66e35d9a25cff8a147ddf2dc2d2c5692f0a346661c9
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="综合",浙江卫视
 https://epg.pm/stream/7beaab860294c8f5cd28c8854c7048a95f5ce47eb0c2b622bacf679c43514493.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://epg.pm/media/images/channel/2021/07/12/large/20210712042101053436_72.png" group-title="Sport",CCTV16
+https://epg.pm/stream/848ff31232f7b6e93b5dc520b662c3fe5ad7f5e13e66ea19b3f3fa5ad8c84b9f.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://epg.pm/media/images/channel/2021/07/12/large/20210712042101053436_72.png" group-title="Sport",CCTV16
 https://epg.pm/stream/b6da5fb7f53734814d9a12b08abc6e93580228c7ee80c614d9f85c9ef110b2d9.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="综合",北京卫视
 https://epg.pm/stream/d617903c74c3f5034e7e53e4207bd97413cf8007e0ff0a9e1702fd4eb782f731.m3u8
