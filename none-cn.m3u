@@ -27,5 +27,9 @@ https://epg.pm/stream/d265ce2cb3067dd96d185a6205cf807df213e14597b127192e12d1563c
 https://epg.pm/stream/6b7df98c6bb9c71db486ee393aa92e8ea7b3979ea4ec7e16950ada1c6960841e.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="新闻",国家地理频道
 https://epg.pm/stream/89dfc84542c5891e1c8c4b202d2616ac1f37ab5cf9d5a9381c2523e52bdd47bd.m3u8
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="新闻",	SkyNews
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="新闻",SkyNews
 https://epg.pm/stream/12079bc80198f18cae1fbc43735d3d9b86bea7b0df6da3fd9490437cb7e497f2.m3u8
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="新闻",中视新闻
+https://epg.pm/stream/8285904c1e9e54df40e1ed53d63171f1d10acd269264e65dd4db271ac0b1b28c.php
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="新闻",动物星球
+https://epg.pm/stream/24cba3727367366a55c11bc52e9092c59a064b14f5db57a2bc0f1c492f3d5684.m3u8
