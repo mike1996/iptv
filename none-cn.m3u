@@ -19,13 +19,13 @@ https://epg.pm/stream/45c33d5a3f3ba1914fab634f15e87822bb0718160822df748927a20363
 https://epg.pm/stream/42cbf7044a5eb9b189a95a3312c5d4bce4b5937d3b3aa3da8876a6c2f623925a.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://epg.pm/media/images/channel/2020/03/22/large/20200322211010158445_97.png" group-title="News",CGTN
 https://epg.pm/stream/35c586c70e069013070205894436f247d511e270458a459634fdb68514b00f3d.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰中文" tvg-logo="" group-title="新闻",凤凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="新闻",凤凰中文
 https://epg.pm/stream/687a8b8931759cac4ca8b9dd86e337b17113375704d9a073ca2f7cd662df667d.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="DW" tvg-logo="" group-title="新闻",DW德国之声(ENGLISH)
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="新闻",DW德国之声(ENGLISH)
 https://epg.pm/stream/d265ce2cb3067dd96d185a6205cf807df213e14597b127192e12d1563c559303.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="DW" tvg-logo="" group-title="新闻",DW德国之声(ENGLISH)
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="新闻",DW德国之声(ENGLISH)
 https://epg.pm/stream/6b7df98c6bb9c71db486ee393aa92e8ea7b3979ea4ec7e16950ada1c6960841e.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="国家地理频道" tvg-logo="" group-title="新闻",国家地理频道
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="新闻",国家地理频道
 https://epg.pm/stream/89dfc84542c5891e1c8c4b202d2616ac1f37ab5cf9d5a9381c2523e52bdd47bd.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="SkyNews" tvg-logo="" group-title="新闻",	SkyNews
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="新闻",	SkyNews
 https://epg.pm/stream/12079bc80198f18cae1fbc43735d3d9b86bea7b0df6da3fd9490437cb7e497f2.m3u8
