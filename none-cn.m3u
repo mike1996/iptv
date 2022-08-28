@@ -8,7 +8,7 @@ https://epg.pm/stream/6d810e5ac0c7eadd6c08b7e9b7cf8a68c76d10aa6365f4d8c0b4ac09f2
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://epg.pm/media/images/channel/2022/05/13/large/20220513225311089225_30.jpg" group-title="港澳台",NHK World
 https://epg.pm/stream/c3c52abd06aaebfa0f9ba19048a3d696cb2d45ce7df984a68a1543f9bc853978.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://epg.pm/media/images/channel/2022/05/13/large/20220513225311089225_30.jpg" group-title="港澳台",NHK World
-https://epg.pm/stream/316b18ca7c6c4b2d63c29e0aa3d9803e02940e9e5586c161b55b3d5deda15916.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="港澳台",凤凰资讯
 https://epg.pm/stream/687a8b8931759cac4ca8b9dd86e337b17113375704d9a073ca2f7cd662df667d.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="港澳台",凤凰资讯
@@ -41,3 +41,5 @@ https://epg.pm/stream/9dbf5d5dd1d158c4dfd5622c86643d4d768447f4f75f505442254c0763
 https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
 #EXTINF:-1 tvg-id="989" tvg-name="Outdoor" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/outdoor.png" group-title="港澳台",Outdoor Channel
 https://epg.pm/stream/f2786af70a4a012823069dfdcda1deb36595641dca9a0a2ba8611335f5e2fce1.m3u8
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="港澳台",France 24 
+https://www.youtube.com/watch?v=h3MuIUNCCzI
