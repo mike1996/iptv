@@ -74,13 +74,7 @@ https://epg.pm/stream/848ff31232f7b6e93b5dc520b662c3fe5ad7f5e13e66ea19b3f3fa5ad8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://epg.pm/media/images/channel/2021/07/12/large/20210712042101053436_72.png" group-title="Sport",CCTV16
 https://epg.pm/stream/b6da5fb7f53734814d9a12b08abc6e93580228c7ee80c614d9f85c9ef110b2d9.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
-https://epg.pm/stream/0b4cca3a1a860225686214b36f942124620fd1eac61778ab2b1ec6158f958976.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
-https://epg.pm/stream/ef571cf2e98c6a72a7d150aca1a79c47d1c9448a425deb6e15041a7057693db8.php
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 https://epg.pm/stream/0c752700382a19fc68cef7079b32d96e1849eb4baa1b15d67eac5aaa17cfff00.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
-https://epg.pm/stream/9523951a5bd5fb3dfe1a05f92ddb71cc7926c1df5d0568d382d04af12dc7e3e3.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://epg.pm/media/images/channel/2022/05/10/large/20220510000346281201_79.jpg" group-title="纪实",世界地理
 https://epg.pm/stream/fe68b0820e1731cb42cd95b81b4b4e28dae7831db4a9e07ae9bd2c086522efc8.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://epg.pm/media/img/logo/2013/10/30/80e4abd132e17b534c2528f1abbb5936.jpg" group-title="综合",湖南卫视
