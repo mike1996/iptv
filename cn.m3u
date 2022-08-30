@@ -2,17 +2,17 @@
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
 https://epg.pm/stream/8e98f69eea5639c504e08d3c0e072cd336e0fcc915189f1e9a0715dba68f57cb.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
-http://39.136.48.6:8089/PLTV/88888888/224/3221226347/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
-http://39.136.48.51:8089/PLTV/88888888/224/3221225751/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://39.136.48.24:8089/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
-http://39.136.48.51:8089/PLTV/88888888/224/3221225757/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://120.253.104.16:808/hls/123/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-http://39.136.48.52:8089/PLTV/88888888/224/3221225781/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://39.134.65.143/PLTV/88888888/224/3221225814/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
@@ -52,7 +52,7 @@ http://39.134.65.141/PLTV/88888888/224/3221225672/1.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="综合",江苏卫视
 http://39.136.48.51:8089/PLTV/88888888/224/3221226211/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="综合",浙江卫视
-http://39.134.66.2/PLTV/88888888/224/3221225514/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://39.136.48.29:8089/PLTV/88888888/224/3221226146/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="localTVHD",CHC动作电影
