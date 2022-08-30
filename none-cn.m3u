@@ -2,8 +2,6 @@
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="https://epg.pm/media/img/logo/Bloomberg.PNG" group-title="港澳台",Bloomberg TV
 https://epg.pm/stream/d42ada1376d570e837357189e590409fb4d380193640e3d0ab5446569b7a7067.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://epg.pm/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="港澳台",CNN
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://epg.pm/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg" group-title="港澳台",CNN
 https://epg.pm/stream/6d810e5ac0c7eadd6c08b7e9b7cf8a68c76d10aa6365f4d8c0b4ac09f26b6fd2.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://epg.pm/media/images/channel/2022/05/13/large/20220513225311089225_30.jpg" group-title="港澳台",NHK World
 https://epg.pm/stream/c3c52abd06aaebfa0f9ba19048a3d696cb2d45ce7df984a68a1543f9bc853978.m3u8
@@ -18,7 +16,7 @@ https://epg.pm/stream/45c33d5a3f3ba1914fab634f15e87822bb0718160822df748927a20363
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://epg.pm/media/images/channel/2020/03/22/large/20200322211010158445_97.png" group-title="港澳台",CGTNDocumentary
 http://39.136.48.28:8089/PLTV/88888888/224/3221226401/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://epg.pm/media/images/channel/2020/03/22/large/20200322211010158445_97.png" group-title="央视",CGTN
-https://epg.pm/stream/35c586c70e069013070205894436f247d511e270458a459634fdb68514b00f3d.m3u8
+http://39.136.48.29:8089/PLTV/88888888/224/3221226320/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 https://epg.pm/stream/e30266528c3416bbfe52823b47c55fa82e2297eefed6bd0ca708cace4fdbbbb2.m3u8
 #EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="港澳台",DW德国之声(ENGLISH)
