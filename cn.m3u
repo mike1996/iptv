@@ -42,13 +42,7 @@ https://epg.pm/stream/d56485534a4c634a9eeeea361865ed36431f53415603c470290bb96e8f
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 https://epg.pm/stream/66929f4e07cf688fb70d28baa9aa81dc5d45ad8993f781b64124c8e51b156720.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
-https://epg.pm/stream/ebaec7fdfb6a909d0eeec857c69070a81f0c4e1d79bab438343372427e3fbe44.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
-https://epg.pm/stream/db4e5df6d9325ab08d32f76f8da4b3e1c23e9c04a8496a231b245c9d041a1816.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
-https://epg.pm/stream/c69dd9d2eed3b8e7a4b701020419790ca9c803d8c16a96b5d242acd020fcaa9d.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
-https://epg.pm/stream/0d1caddb7fadb17448567bda014cd156a61d5031bc7466c2ce7e7cd175a42b2f.m3u8
+https://epg.pm/stream/22707c3f969f1cace42ffb0f9f1e75bb89248140f88e1ae3a640518dc84aa7d4.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 https://epg.pm/stream/2cb606f91db66be9fd87db2aed307242c3518b8e9462597ff806acab31297683.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
