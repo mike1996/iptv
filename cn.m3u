@@ -2,10 +2,6 @@
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
 https://epg.pm/stream/8e98f69eea5639c504e08d3c0e072cd336e0fcc915189f1e9a0715dba68f57cb.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
-https://epg.pm/stream/c03516b82b27ab9e02580499cb6c64a4368d4411a58698179118e6c6e951115b.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
-https://epg.pm/stream/3f5fe2c4c793ae4c331fb74da1da430a1feb5e5c11f112c7931d66bd07b971f8.php
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 https://epg.pm/stream/3a87a4a4c27c80614b66ba85144b477e0aa8e95db6eec402f0f8eb2cc62e92de.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 https://epg.pm/stream/e7ee0d2c2a8d5880f45d01cc48b8d9dfa08e1255d05ffdeb0c086896a49b11f3.m3u8
@@ -15,12 +11,6 @@ https://epg.pm/stream/8d4734d587293a1dff3085f563aced913ae0b0568edc41b26004681f0e
 https://epg.pm/stream/a9c4715391ba939632dc9863078f041a3340bc8231f863ba84b37577f9f985be.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 https://epg.pm/stream/361da3e4effedb075f580c88590afa4dc0c290dd8f46b3349741c96fbbc5de8f.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
-https://epg.pm/stream/87b8d48ffcec60d7be00dae35656f40ea093ad3f538d3ce2334710f0b6352982.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
-https://epg.pm/stream/e3bf208072ebb0e101266837204ae9724711330a7bf0d48314246698d7951cca.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
-https://epg.pm/stream/9341956ab1bc027030384b8493c3477176eaf71ea85636dd8c4f9b27f9ca1eff.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 https://epg.pm/stream/5a91842ec2b3f1d147a8408a16aa0a758c97669c663a294035f33a994b19035f.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
