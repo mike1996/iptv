@@ -3,30 +3,16 @@
 https://epg.pm/stream/8e98f69eea5639c504e08d3c0e072cd336e0fcc915189f1e9a0715dba68f57cb.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 https://epg.pm/stream/3a87a4a4c27c80614b66ba85144b477e0aa8e95db6eec402f0f8eb2cc62e92de.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
-https://epg.pm/stream/e7ee0d2c2a8d5880f45d01cc48b8d9dfa08e1255d05ffdeb0c086896a49b11f3.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
-https://epg.pm/stream/8d4734d587293a1dff3085f563aced913ae0b0568edc41b26004681f0e348e99.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
-https://epg.pm/stream/a9c4715391ba939632dc9863078f041a3340bc8231f863ba84b37577f9f985be.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
-https://epg.pm/stream/361da3e4effedb075f580c88590afa4dc0c290dd8f46b3349741c96fbbc5de8f.m3u8
+http://39.136.48.51:8089/PLTV/88888888/224/3221225751/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 https://epg.pm/stream/5a91842ec2b3f1d147a8408a16aa0a758c97669c663a294035f33a994b19035f.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
-https://epg.pm/stream/d54ff90fc77b915239d28be33d8406d9f9639c31251c68638f905edbcd267581.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
-https://epg.pm/stream/60a87c4fed6093c8194c2030ff5589f6ecd6c635aed3b23941a24c6f03a2490f.m3u8
+http://39.136.48.51:8089/PLTV/88888888/224/3221225757/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 https://epg.pm/stream/e23e1556cab4aa6aef8e016ee43f26057c2f6179d365cc8a6a407c7d160766c6.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
-https://epg.pm/stream/0caf179f643a0fc86807acb9acc6354b97ac8209b02969b8ea0c1de5ea62ba2f.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
-https://epg.pm/stream/1b64b2093b73924f014fcb4c248080b346a4d5f3229f5b2598457bd26b6aa1f0.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-https://epg.pm/stream/e73bf14eb8edcf9fc6ab2179a1332946693d468b5c42185d292e80839424142f.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-https://epg.pm/stream/b6a4f0bf0f650a310606d8084732109d1bbdf4f4213773a983d2c65bda2b96e4.m3u8
+http://39.136.48.51:8089/PLTV/88888888/224/3221225781/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 https://epg.pm/stream/cb59f36f3a5a483947dfe4ab5e23aa8d3cc84ebcd3360485d98f9f4a332e4ed6.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
@@ -36,45 +22,29 @@ https://epg.pm/stream/b34477b81f7f5cdd93be0e69145bc685e8305cbe53ddf8df1acb34926c
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 https://epg.pm/stream/13a9c57b74f4392dfa065bab647856b50bdcd0ac9a78e625dce735a248d0db0f.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
-https://epg.pm/stream/d56485534a4c634a9eeeea361865ed36431f53415603c470290bb96e8f044357.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
-https://epg.pm/stream/66929f4e07cf688fb70d28baa9aa81dc5d45ad8993f781b64124c8e51b156720.m3u8
+http://39.136.48.51:8089/PLTV/88888888/224/3221225753/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 https://epg.pm/stream/c69dd9d2eed3b8e7a4b701020419790ca9c803d8c16a96b5d242acd020fcaa9d.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
-https://epg.pm/stream/5426c5d325b5ed804d7d89a4644f2f1c8f01e006c2c65f1da3f5931d99762155.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
-https://epg.pm/stream/e0e2077dcd29623e6ce5184c6e53451a5e7b0ac6e12fba2fd02250bf1d5defc4.m3u8
+http://39.136.48.51:8089/PLTV/88888888/224/3221225759/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
-https://epg.pm/stream/a57df3a4835663d1358a2911d142a4cbead1a5dbdfa85f8b240b1d0dc480594c.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
-https://epg.pm/stream/3d0638461632438ad207eb8ba5998a54fb5542c55da7e8b052a24ffc39d15537.m3u8
+http://39.136.48.51:8089/PLTV/88888888/224/3221225761/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
-https://epg.pm/stream/0b683b2df7de190c826cfed309d39658d88d4a174cc8a65711911dd6e87e8753.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
-https://epg.pm/stream/0809e8bc614fbd1c0978fa1def181be951321b8d5b9988774b452bed2252ba68.m3u8
+http://39.136.48.51:8089/PLTV/88888888/224/3221226407/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
-https://epg.pm/stream/e729624f63d5392c64c25d1c89558cf8628a38b6bb8f00482cbf8493e403e274.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
-https://epg.pm/stream/707380e47c41b0e6d3838223f30c288732fe9f7158583854ab7acb646f9dad50.m3u8
+http://39.136.48.51:8089/PLTV/88888888/224/3221225763/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
-https://epg.pm/stream/d2d47e128d218edd4e8b50de29815d7c52dfa82d3e54c2e192259140e45e8a91.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
-https://epg.pm/stream/a6331e2ad00c25e6e56486b151df6dec8cb74a2053d2a994bb524461595e5b13.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
-https://epg.pm/stream/181fc8b91612561f5425216ad9d887e88dd10ac63c6bccb3040ae4fd75bc2971.m3u8
+http://39.136.48.51:8089/PLTV/88888888/224/3221226328/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
-https://epg.pm/stream/166f6ea2abefd3727fbf5ef6e7bf480786659c2964016b58720014ba5c30bfb7.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
-https://epg.pm/stream/81e40e0f3b482f56089b5e298f6ef5f6376e0a49be096164954f02ae3ef5f310.m3u8
+http://39.136.48.29:8089/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
-https://epg.pm/stream/a0229f30b35348029176523a6f069bf5075b1ff61251c5a246e6a478e44414bd.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://epg.pm/media/images/channel/2021/07/12/large/20210712042101053436_72.png" group-title="Sport",CCTV16
+http://39.136.48.51:8089/PLTV/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 tvg-id="7249" ,CCTV16
 https://epg.pm/stream/848ff31232f7b6e93b5dc520b662c3fe5ad7f5e13e66ea19b3f3fa5ad8c84b9f.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://epg.pm/media/images/channel/2021/07/12/large/20210712042101053436_72.png" group-title="Sport",CCTV16
+#EXTINF:-1 tvg-id="7249" ,CCTV16
 https://epg.pm/stream/b6da5fb7f53734814d9a12b08abc6e93580228c7ee80c614d9f85c9ef110b2d9.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
-https://epg.pm/stream/0c752700382a19fc68cef7079b32d96e1849eb4baa1b15d67eac5aaa17cfff00.m3u8
+http://39.136.48.28:8089/PLTV/88888888/224/3221226093/index.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://epg.pm/media/images/channel/2022/05/10/large/20220510000346281201_79.jpg" group-title="纪实",世界地理
 rtsp://221.203.83.34:554/PLTV/88888888/224/3221226679/10000100000000060000000006385175_0.smil
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://epg.pm/media/img/logo/2013/10/30/80e4abd132e17b534c2528f1abbb5936.jpg" group-title="综合",湖南卫视
@@ -91,9 +61,21 @@ https://epg.pm/stream/c2f964c6b1dd1a71ba350b204fb44f33f4f161c2b1054b6084891a0774
 https://epg.pm/stream/afc90d29beddc0b66e35d9a25cff8a147ddf2dc2d2c5692f0a346661c9edefab.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="综合",浙江卫视
 https://epg.pm/stream/7beaab860294c8f5cd28c8854c7048a95f5ce47eb0c2b622bacf679c43514493.m3u8
+#EXTINF:-1 ,北京卫视
+http://39.136.48.29:8089/PLTV/88888888/224/3221226146/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="localTVHD",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="localTVHD",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="localTVHD",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1,广东卫视
+http://39.136.48.51:8089/PLTV/88888888/224/3221226213/index.m3u8
+#EXTINF:-1,贵州卫视
+http://39.136.48.51:8089/PLTV/88888888/224/3221225777/index.m3u8
+#EXTINF:-1,海南卫视
+http://39.136.48.28:8089/PLTV/88888888/224/3221226325/index.m3u8
+#EXTINF:-1,河北卫视
+http://39.136.48.51:8089/PLTV/88888888/224/3221225779/index.m3u8
+#EXTINF:-1,深圳卫视
+http://39.136.48.52:8089/PLTV/88888888/224/3221226150/index.m3
