@@ -8,11 +8,7 @@ https://epg.pm/stream/c3c52abd06aaebfa0f9ba19048a3d696cb2d45ce7df984a68a1543f9bc
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://epg.pm/media/images/channel/2022/05/13/large/20220513225311089225_30.jpg" group-title="港澳台",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="港澳台",凤凰资讯
-https://epg.pm/stream/687a8b8931759cac4ca8b9dd86e337b17113375704d9a073ca2f7cd662df667d.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="港澳台",凤凰资讯
-https://epg.pm/stream/a957d4e5f157502d341b1ba6542c9aaa9cda482fa34706fee49c245d7464655a.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="港澳台",凤凰资讯
-https://epg.pm/stream/45c33d5a3f3ba1914fab634f15e87822bb0718160822df748927a20363a06f60.m3u8
+https://epg.pm/stream/2970864dc618995059a5daba7be525d36249e910b5b8094226c2ce4a7a3444e1.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://epg.pm/media/images/channel/2020/03/22/large/20200322211010158445_97.png" group-title="港澳台",CGTNDocumentary
 http://39.136.48.28:8089/PLTV/88888888/224/3221226401/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://epg.pm/media/images/channel/2020/03/22/large/20200322211010158445_97.png" group-title="央视",CGTN
